@@ -1,0 +1,46 @@
+header{
+    height: 8vh;
+    display: grid;
+    grid-template-rows: 0.1fr;
+    margin-top: -8px;
+    
+}
+
+.navbar-one{
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    background-color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: -10px;
+    margin-right: -8px;
+    height: 8vh;
+    opacity: 70%;
+    background-color: #0D1E47;
+   
+   
+}
+.logocode{
+    display: flex;
+    height: 7vh;
+    margin-top: -2vh;
+    margin-left: -2vw;
+    color: white;
+}
+.liste-une {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+     color: white;
+     width: 80%;
+    
+}
+.gauche {
+    height: 8vh;
+}
+.droite {
+    height: 8vh;
+    padding: 10px;
+    
+}
