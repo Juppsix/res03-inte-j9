@@ -22,6 +22,10 @@ header {
   background-color: #0D1E47;
 }
 
+li a {
+  text-decoration: none;
+}
+
 .logocode {
   display: flex;
   height: 7vh;

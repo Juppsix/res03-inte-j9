@@ -27,6 +27,12 @@ header{
    
    
 }
+
+li {
+    a {
+        text-decoration: none;
+    }
+}
 .logocode{
     display: flex;
     height: 7vh;
